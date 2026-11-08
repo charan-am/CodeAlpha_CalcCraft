@@ -75,3 +75,14 @@ CodeAlpha_CalcCraft/
 ## Author
 
 Charan A M
+
+## Screenshots
+
+### Main Menu and Calculation
+![CalcCraft Main Menu](screenshots/main-menu.png)
+
+### Error Handling
+![Division by Zero Protection](screenshots/error-handling.png)
+
+### Calculation History
+![Calculation History](screenshots/calculation-history.png)
