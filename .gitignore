@@ -1,0 +1,5 @@
+# Ignore compiled executables
+*.exe
+
+# Ignore generated calculation history
+calccraft_history.txt
